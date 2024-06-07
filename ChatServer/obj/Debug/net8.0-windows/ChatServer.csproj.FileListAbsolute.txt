@@ -1,0 +1,16 @@
+C:\Projects\C#\Chat\ChatServer\bin\Debug\net8.0-windows\ChatServer.exe
+C:\Projects\C#\Chat\ChatServer\bin\Debug\net8.0-windows\ChatServer.deps.json
+C:\Projects\C#\Chat\ChatServer\bin\Debug\net8.0-windows\ChatServer.runtimeconfig.json
+C:\Projects\C#\Chat\ChatServer\bin\Debug\net8.0-windows\ChatServer.dll
+C:\Projects\C#\Chat\ChatServer\bin\Debug\net8.0-windows\ChatServer.pdb
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ChatServer.Form1.resources
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ChatServer.csproj.GenerateResource.cache
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ChatServer.AssemblyInfoInputs.cache
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ChatServer.AssemblyInfo.cs
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ChatServer.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ChatServer.dll
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\refint\ChatServer.dll
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ChatServer.pdb
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ChatServer.genruntimeconfig.cache
+C:\Projects\C#\Chat\ChatServer\obj\Debug\net8.0-windows\ref\ChatServer.dll
